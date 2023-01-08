@@ -1,6 +1,6 @@
 ✨ Hallå. ✨
 
-I’m currently learning React.
+I’m currently writing my graduation work.
 <!--
 **mrrlin/mrrlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
