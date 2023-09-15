@@ -2,7 +2,7 @@
 
 🐣 I am a first-year master's student in Applied Mathematics and Informatics.
 
-👩‍💻 Studying front-end development.
+👩‍💻 Studying front-end development, ML and AR.
 
 🌿 Here's my telegram channel about my usual life: https://t.me/linushka_writes 🌿
 
