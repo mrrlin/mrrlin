@@ -1,8 +1,8 @@
 ✨ Hallå. ✨
 
-🐣 I am a first-year master's student in Applied Mathematics and Informatics.
+🐣 I have a bachelor's degree in "Fundamental Informatics and Information Technologies" with a profile in "Mobile and Internet Development".
 
-👩‍💻 Studying front-end development, ML and AR.
+👩‍💻 Studying front-end development and AR.
 
 🌿 Here's my telegram channel about my usual life: https://t.me/linushka_writes 🌿
 
