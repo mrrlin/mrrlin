@@ -2,7 +2,7 @@
 
 🐣 I have a bachelor's degree in "Fundamental Informatics and Information Technologies" with a profile in "Mobile and Internet Development".
 
-👩‍💻 Studying front-end development and AR.
+👩‍💻 Started to learn Java.
 
 🌿 Here's my telegram channel about my usual life: https://t.me/linushka_writes 🌿
 
